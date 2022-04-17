@@ -1,0 +1,51 @@
+
+.form{
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#login{
+    background-color: rgba(105, 26, 26, 0.336);
+    height: 205px;
+    width: 300px;
+    border: 1px solid rgba(88, 18, 9, 0.616);
+    padding: 5px;
+    border-radius: 10px;
+    margin: 50px auto auto auto;
+}
+
+#login > form > div{
+    background-color: rgba(167, 36, 36, 0.219);
+    border: 1px solid rgba(109, 30, 11, 0.616);
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#login > form > div > label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+#login> form > div > input{
+    padding: 5px;
+    border-radius: 10px;
+    width: 200px;
+    border: 1px solid rgba(54, 32, 32, 0.616);
+}
+
+#login > form > button{
+    background: rgba(73, 34, 34, 0.219);
+    display: block;
+    padding: 5px;
+    border-radius: 10px;
+    width: 200px;
+    border: 1px solid rgba(73, 34, 34, 0.219); ;
+    margin: 17px auto 10px auto;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}

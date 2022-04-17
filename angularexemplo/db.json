@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "paulo.cdvitor@hotmail.com",
+      "password": "juxlove77",
+      "nome": "paulo",
+      "id": 1
+    },
+    {
+      "email": "julianapbvitor@hotmail.com",
+      "password": "$2a$10$U9qV5B0W42/g974CnQV.QOSrqOHp6hEzkNyEQykYHplO3jr9lcjda",
+      "nome": "paulo",
+      "id": 2
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 2,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 3,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 4,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 5,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "id": 6,
+      "imagem": "",
+      "titulo": "Hoje tá frio",
+      "descricao": "Hoje em São Paulo tá mto frio"
+    },
+    {
+      "imagem": "",
+      "titulo": "amanha vai estar calor ",
+      "descricao": "Hoje em São Paulo tá mto frio",
+      "id": 7
+    }
+  ]
+}
